@@ -5,5 +5,5 @@ def name
 end
 
 def name=(dogs_name)
-  name = @dogs_name
+  @dogs_name = name
 end
